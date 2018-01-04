@@ -4,7 +4,9 @@
  |      |---Project 2010企业项目管理实践.pdf
  |
  |---技术文档
+ |      |---6-成本计划.ppt
  |      |---9-配置管理计划.ppt
+ |      |---Git.pptx
  |
  |---实验文档
  |      |---SoftwareDevPlan.mpp
